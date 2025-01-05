@@ -1,0 +1,2 @@
+# Universal
+Admin fuckvwm
